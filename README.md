@@ -34,7 +34,7 @@ When preparing the suggestion to the technical working group, the realization wa
   - No undocumented or overseen gaps (all possible bit combinations can be checked)
   - Qualified error messages helping the developer to fix issues before the first submission
 - Automatic generation of EEP documentation
-- Documenting and enabling interoperability in cases vendor specific violation of standards (which is neither encouraged nor officialy supported, but nonetheless exists in many instances in the industry for a plenthora of reasons)
+- Documenting and enabling interoperability in cases vendor specific violation of standards (which is neither encouraged nor officially supported, but nonetheless exists in many instances in the industry for a plethora of reasons)
 - Automatic generation of UI for specific EEPs
 
 ### Branching of responsibilities
