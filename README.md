@@ -37,6 +37,16 @@ When preparing the suggestion to the technical working group, the realization wa
 - Documenting and enabling interoperability in cases vendor specific violation of standards (which is neither encouraged nor officially supported, but nonetheless exists in many instances in the industry for a plethora of reasons)
 - Automatic generation of UI for specific EEPs
 
+#### Open sourcing the project
+
+The following steps were proposed by Eltako and accepted by the EnOcean Alliance BoD:
+
+- Open sourcing the project under temporary Eltako ownership on the Eltako GitHub account
+- Contributing and documenting the work already done by Eltako into the open source repository
+- Forking the project into the EnOcean Alliance GitHub Account
+- Preparing and executing the hand over to the EnOcean Alliance
+- Reversing the forking direction, **from** the EnOcean Alliance **to** Eltako, running the project under full EnOcean Alliance control with Eltako being just a contributor equal to every other member of the alliance
+
 ### Branching of responsibilities
 
 Eltako -> JSON schema
